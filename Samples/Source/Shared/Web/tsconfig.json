@@ -1,0 +1,18 @@
+{
+    "extends": "../../../tsconfig.json",
+    "references": [
+        {
+            "path": "../Common"
+        },
+        {
+            "path": "../../../../Source/web"
+        },
+        {
+            "path": "../../../../Source/react"
+        },
+        {
+            "path": "../../../../Source/typescript/features"
+        }
+
+    ]
+}

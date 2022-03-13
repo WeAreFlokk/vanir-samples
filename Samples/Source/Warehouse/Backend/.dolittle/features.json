@@ -1,0 +1,11 @@
+{
+  "materials": {
+    "description": "",
+    "toggles": [
+      {
+        "type": "Boolean",
+        "isOn": true
+      }
+    ]
+  }
+}

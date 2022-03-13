@@ -1,0 +1,18 @@
+{
+    "extends": "../../../tsconfig.json",
+    "compilerOptions": {
+        "outDir": "dist",
+        "rootDir": "./",
+    },
+    "references": [
+        {
+            "path": "../../Shared/Backend"
+        },
+        {
+            "path": "../../../../Source/typescript/backend"
+        },
+        {
+            "path": "../../../../Source/typescript/features"
+        }
+    ]
+}
